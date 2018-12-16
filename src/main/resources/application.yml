@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://124.251.32.104:45006/User?zeroDateTimeBehavior=convertToNull&Unicode=true&amp;characterEncoding=utf8
+    username: yanjiangfeng2018
+    password: DaYF28YaJaf31nnGen
+logging:
+  level:
+     com.example.demotool.dao: debug
